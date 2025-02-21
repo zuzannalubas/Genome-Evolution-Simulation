@@ -12,6 +12,6 @@ A project modeling genetic changes in a population, incorporating **mutations, r
 ## 🚀 **How to Run**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/twojanazwa/Genome-Evolution-Simulation.git
+   git clone https://github.com/zuzannalubas/Genome-Evolution-Simulation.git
    cd Genome-Evolution-Simulation
    ```
