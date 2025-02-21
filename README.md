@@ -1,16 +1,17 @@
-# Symulacja Ewolucji Genomu 🧬  
+# **Genome Evolution Simulation** 🧬  
 
-## 📌 Opis  
-Projekt modelujący zmiany genetyczne w populacji z uwzględnieniem mutacji, rekombinacji i dryfu genetycznego.  
+## 📌 **Description**  
+A project modeling genetic changes in a population, incorporating **mutations, recombination, and genetic drift**.  
 
-## 🛠 Technologie  
-- Python  
-- Jupyter Notebook  
-- Biopython, msprime, simuPOP  
-- NumPy, Pandas, Matplotlib  
+## 🛠 **Technologies**  
+- **Python**  
+- **Jupyter Notebook**  
+- **Biopython, msprime, simuPOP**  
+- **NumPy, Pandas, Matplotlib**  
 
-## 🚀 Uruchomienie  
-1. Pobierz repozytorium:  
+## 🚀 **How to Run**  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/twojanazwa/Genome-Evolution-Simulation.git
    cd Genome-Evolution-Simulation
+   ```
